@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jepjep-rgb
 - 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
